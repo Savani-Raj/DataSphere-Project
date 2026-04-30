@@ -18,7 +18,7 @@ DataSphere-Project/
 │── data/              # Raw and processed datasets
 │── notebooks/         # Jupyter notebooks for analysis
 │── src/               # Source code
-│── models/            # ML models (if applicable)
+│── models/            # ML models 
 │── outputs/           # Results, graphs, reports
 │── README.md          # Project documentation
 ⚙️ Installation
